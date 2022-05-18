@@ -23,8 +23,6 @@
 [Project 5 : Galaxy fox](http://example.com/)
 <img src="images/Galaxy fox.jpg?raw=true"/>
 
----
-
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
