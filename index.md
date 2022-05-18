@@ -8,12 +8,20 @@
 <img src="images/blendimages.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 : Ripped Effect Portrait](/pdf/sample_presentation.pdf)
+<img src="images/Mongolia.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3 : Liquid / Graffiti style image](http://example.com/)
+<img src="images/Liquid : Graffiti style image.png?raw=true"/>
+
+---
+[Project 4 : Double Exposure Effect](http://example.com/)
+<img src="images/Double Exposure Effect.jpg?raw=true"/>
+
+---
+[Project 5 : Galaxy fox](http://example.com/)
+<img src="images/Galaxy fox.jpg?raw=true"/>
 
 ---
 
