@@ -29,7 +29,8 @@
 
 - [Project 1 : Cool Retro Collage](http://example.com/)
 - <img src="images/Retro Collage.jpg?raw=true"/>
-- [Project 2 Title](http://example.com/)
+- [Project 2 : 3D Pop Out effect](http://example.com/)
+- <img src="images/3D Pop Out effect.jpg?raw=true"/>
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
 - [Project 5 Title](http://example.com/)
