@@ -25,9 +25,9 @@
 
 ---
 
-### Category Name 2
+### Cool Retro Collage + 3D Pop Out effect
 
-- [Project 1 Title](http://example.com/)
+- [Project 1 : Cool Retro Collage](http://example.com/)
 - <img src="images/Retro Collage.jpg?raw=true"/>
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
