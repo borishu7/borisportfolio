@@ -21,7 +21,9 @@
 
 ---
 [Project 5 : Galaxy fox](http://example.com/)
-<img src="images/GalaxyFox.jpg?raw=true"/>
+<img src="images/ GalaxyFox.jpg?raw=true"/>
+
+---
 
 ### Category Name 2
 
